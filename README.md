@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm SuperToastie 👋
 
-<!--
-**SuperToastie/SuperToastie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a bootcamp student with a passion for technology and creativity. I love exploring new technologies, building exciting projects, and continuously learning to improve my skills. 
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning ...
+- Python
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I do
+I am learning to be a software engineer, and I have a keen interest in software accessibility. I have uploaded some projects that I completed during the bootcamp.
+
+## ✨ My Latest Projects
+- **[Python Calculator]** - A Python application that does basic math and trigonometry.
+- **[Final Capstone]** - A small collection of Python applications that I have completed during the bootcamp.
+
+## 📫 How to reach me
+- [**LinkedIn:**](https://www.linkedin.com/in/amylouiseeverett/)
+
+## ⚡ Fun fact
+I trained as a makeup artist at Ealing Studios. 
